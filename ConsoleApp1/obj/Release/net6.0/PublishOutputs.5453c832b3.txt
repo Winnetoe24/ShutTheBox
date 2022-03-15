@@ -1,0 +1,5 @@
+C:\Code\c#\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.exe
+C:\Code\c#\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.dll
+C:\Code\c#\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.deps.json
+C:\Code\c#\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.runtimeconfig.json
+C:\Code\c#\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.pdb
